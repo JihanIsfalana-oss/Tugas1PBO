@@ -24,7 +24,7 @@ PHP Intelephense, Prettier, dan Error Lens.
 
 ## Materi Pembelajaran
 
-Repository ini berisi penerapan konsep pemrograman berorientasi objek pada
+Repository ini berisi penerapan konsep pemrograman berorientasi objek
 tugas 01 sampai tugas 06:
 
 1. Class dan Object
